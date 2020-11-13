@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "agendaFront"
+  "defaultProject": "agendaFront",
+  "cli": {
+    "analytics": false
+  }
 }
